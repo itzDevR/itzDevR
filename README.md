@@ -1,4 +1,5 @@
-## Hi there 👋
+Welcome to life of 0's and 1's
+<br>
 Author - Devraj Rawat
 <!--
 **itzDevR/itzDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
